@@ -1,0 +1,4 @@
+nltk==3.9.4
+torch
+transformers==5.10.2
+accelerate
